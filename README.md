@@ -38,7 +38,7 @@ By completing this project, I aim to:
 
 ---
 
-## 🎨 UI/UX Design
+## 🎨 UI Component Patterns
 **Design Goals:**
 - Intuitive booking flow  
 - Consistent and clean interface  
