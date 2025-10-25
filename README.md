@@ -53,7 +53,7 @@ By completing this project, I aim to:
 
 ---
 
-## 👥 Team Roles
+## 👥 Project Roles and Responsibilities 
 | Role | Responsibilities |
 |------|-------------------|
 | Project Manager | Oversees timeline and deliverables |
