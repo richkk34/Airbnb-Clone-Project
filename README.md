@@ -1,10 +1,7 @@
 # Airbnb-Clone-Project
 
-Sure! Here’s a **simple, clean, and professional** version of your **GitHub README.md** file for the **Airbnb Full-Stack Clone Project** 👇
 
----
-
-```markdown
+```
 # 🏠 AirBnB Full-Stack Clone
 
 ## 📘 Project Overview
